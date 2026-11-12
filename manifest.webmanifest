@@ -1,0 +1,24 @@
+{
+  "name": "Soundabet Adventures",
+  "short_name": "Soundabet",
+  "description": "Pip the Fox's alphabet adventure",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#bdeafa",
+  "theme_color": "#4d97e7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
